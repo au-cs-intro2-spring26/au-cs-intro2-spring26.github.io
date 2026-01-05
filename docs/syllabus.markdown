@@ -8,20 +8,11 @@ permalink: /syllabus/
 
 #### Instructor
 
-#### Sections 001
-- **Instructor**: Professor Kathleen Riley
-- **Email**: [kriley@american.edu](kriley@american.edu)
-- **Website**: [Kathleen Riley Website](https://www.american.edu/cas/faculty/kriley.cfm)
-- **Office**: DMTI 112D
-- **Office Hours**: TBD
-- **First Day of Class**: Tue., Aug. 27
-  - Section 001: Meets 9:45 AM - 11:00 AM T/F in DMTI TBD
-
-#### Section 002
+#### Section 001
 - **Instructor**: Professor Roberto Corizzo
 - **Email**: [rcorizzo@american.edu](rcorizzo@american.edu)
 - **Website**: [Roberto Corizzo Website](https://www.rcorizzo.com/)
-- **Office**: DMTI 112E
+- **Office**: DMTI 114
 - **Office Hours**:
   - T: 5:00 PM-6:30 PM
   - F: 4:00 PM-5:30 PM
@@ -29,12 +20,22 @@ permalink: /syllabus/
 - **First Day of Class**: Tue., Aug. 27
   - Section 002: Meets 11:20 AM - 12:35 PM T/F in DMTI 121
 
-#### Teacher Assistants
-- **Section 1**: Katherine Nechyba 
-- **Email**: [kn9558a@american.edu](kn9558a@american.edu)
+#### Sections 002
+- **Instructor**: Professor Alex Godwin
+- **Email**: [godwin@american.edu](godwin@american.edu)
+- **Website**: [Alex Godwin Website](https://jagodwin.github.io)  
+- **Office**: DMTI 109
 - **Office Hours**: TBD
-- **Section 2**: Charlotte Owen  
-- **Email**: [co7368a@american.edu](co7368a@american.edu)
+- **First Day of Class**: Tue., Aug. 27
+  - Section 001: Meets 9:45 AM - 11:00 AM T/F in DMTI 109
+ 
+
+#### Teacher Assistants
+- **Section 1**: TBD
+- **Email**: [TBD@american.edu](TBD@american.edu)
+- **Office Hours**: TBD
+- **Section 2**: TBD
+- **Email**: [TBD@american.edu](TBD@american.edu)
 - **Office Hours**: TBD
 
 ## Coronavirus Policies
