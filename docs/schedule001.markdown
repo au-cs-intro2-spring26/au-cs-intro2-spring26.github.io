@@ -126,5 +126,6 @@ This schedule includes planned topics, exams, and semester breaks. For individua
 ---
 
 ### Week 16: Final Exams
-- XXX., XXX XX X:XX am classroom
+- Tue, May 5, 2026	11:20AM-01:50PM
+
 
