@@ -38,7 +38,7 @@ This schedule includes planned topics, exams, and semester breaks. For individua
         <td>Tue., Jan. 13</td>
         <td>DS 1</td>
         <td>Software Setup, Course Overview, CS Basics Review</td>
-        <td>Review the [resources](/resources) section and ensure that you have attempted to install all required software and obtained all necessary accounts &amp; licenses</td>
+        <td>Review the <a href="/resources">resources</a> section and ensure that you have attempted to install all required software and obtained all necessary accounts &amp; licenses</td>
     </tr>
     <tr>
         <td></td>
