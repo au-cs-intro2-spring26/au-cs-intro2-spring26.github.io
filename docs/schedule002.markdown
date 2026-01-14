@@ -146,16 +146,12 @@ This schedule includes planned topics, exams, and semester breaks. For individua
     <tr>
         <td>9</td>
         <td>Tue., Mar. 10</td>
-        <td>NO CLASS - Spring Break</td>
-        <td></td>
-        <td></td>
+        <td colspan="3" style="text-align:center;">NO CLASS - Spring Break</td>
     </tr>
     <tr>
         <td></td>
         <td>Fri., Mar. 13</td>
-        <td>NO CLASS - Spring Break</td>
-        <td></td>
-        <td></td>
+        <td colspan="3" style="text-align:center;">NO CLASS - Spring Break</td>
     </tr>
     <tr>
         <td>10</td>
@@ -241,8 +237,8 @@ This schedule includes planned topics, exams, and semester breaks. For individua
     </tr>
     <tr>
         <td>FINALS</td>
-        <td>Fri., May. 1</td>
-        <td colspan="3" style="text-align:center;">Finals Week: TBD</td>
+        <td>Tue., May. 5</td>
+        <td colspan="3" style="text-align:center;">Finals Week: 02:30PM-05:00PM</td>
     </tr>
 </table>
 </div>
