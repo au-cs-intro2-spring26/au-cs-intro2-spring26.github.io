@@ -18,25 +18,27 @@ permalink: /syllabus/
   - F: 4:00 PM-5:30 PM
   - In person (my office is located in DMTI 112E) or online. If you want to meet online, reserve your slot on Acuity and send me an email: you will receive a Zoom meeting link shortly before the scheduled time. Reservation on Acuity appreciated but not mandatory for in-person meeting - [Link](https://app.acuityscheduling.com/schedule.php?owner=21540415).
 - **First Day of Class**: Tue., Aug. 27
-  - Section 002: Meets 11:20 AM - 12:35 PM T/F in DMTI 121
+  - Section 001: Meets 11:20 AM - 12:35 PM T/F in DMTI 121
 
 #### Sections 002
 - **Instructor**: Professor Alex Godwin
 - **Email**: [godwin@american.edu](godwin@american.edu)
 - **Website**: [Alex Godwin Website](https://jagodwin.github.io)  
-- **Office**: DMTI 109
-- **Office Hours**: TBD
+- **Office**: DMTI 112C
+- **Office Hours**: 
+  -  T: 1-2 PM
+  - F: 1-2 PM
 - **First Day of Class**: Tue., Aug. 27
-  - Section 001: Meets 9:45 AM - 11:00 AM T/F in DMTI 109
+  - Section 002: Meets 9:45 AM - 11:00 AM T/F in DMTI 109
  
 
 #### Teacher Assistants
-- **Section 1**: TBD
+- **Section 1**: Charlotte Owen
+- **Email**: [co7368a@american.edu](co7368a@american.edu)
+- **Office Hours**: M/W 4-5PM by DMTI 108 Offices
+- **Section 2**: Adam Liewehr
 - **Email**: [TBD@american.edu](TBD@american.edu)
-- **Office Hours**: TBD
-- **Section 2**: TBD
-- **Email**: [TBD@american.edu](TBD@american.edu)
-- **Office Hours**: TBD
+- **Office Hours** M/W/F 5:30-6:30PM by DMTI 108 Offices 
 
 ## Coronavirus Policies
 
