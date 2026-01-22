@@ -12,13 +12,13 @@ permalink: /syllabus/
 - **Instructor**: Professor Roberto Corizzo
 - **Email**: [rcorizzo@american.edu](rcorizzo@american.edu)
 - **Website**: [Roberto Corizzo Website](https://www.rcorizzo.com/)
-- **Office**: DMTI 114
+- **Office**: DMTI 112E
 - **Office Hours**:
   - T: 5:30 PM-6:30 PM
   - F: 1:00 PM-2:30 PM
   - In person (my office is located in DMTI 112E) or online. If you want to meet online, reserve your slot on Acuity and send me an email: you will receive a Zoom meeting link shortly before the scheduled time. Reservation on Acuity appreciated but not mandatory for in-person meeting - [Link](https://app.acuityscheduling.com/schedule.php?owner=21540415).
 - **First Day of Class**: Tue., Aug. 27
-  - Section 001: Meets 11:20 AM - 12:35 PM T/F in DMTI 121
+  - Section 001: Meets 11:20 AM - 12:35 PM T/F in DMTI 114
 
 #### Sections 002
 - **Instructor**: Professor Alex Godwin
