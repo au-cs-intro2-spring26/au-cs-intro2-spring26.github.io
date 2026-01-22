@@ -17,7 +17,7 @@ permalink: /syllabus/
   - T: 5:30 PM-6:30 PM
   - F: 1:00 PM-2:30 PM
   - In person (my office is located in DMTI 112E) or online. If you want to meet online, reserve your slot on Acuity and send me an email: you will receive a Zoom meeting link shortly before the scheduled time. Reservation on Acuity appreciated but not mandatory for in-person meeting - [Link](https://app.acuityscheduling.com/schedule.php?owner=21540415).
-- **First Day of Class**: Tue., Aug. 27
+- **First Day of Class**: Tue., Jan. 13
   - Section 001: Meets 11:20 AM - 12:35 PM T/F in DMTI 114
 
 #### Sections 002
@@ -28,7 +28,7 @@ permalink: /syllabus/
 - **Office Hours**: 
   -  T: 1-2 PM
   - F: 1-2 PM
-- **First Day of Class**: Tue., Aug. 27
+- **First Day of Class**: Tue., Jan. 13
   - Section 002: Meets 9:45 AM - 11:00 AM T/F in DMTI 109
  
 
