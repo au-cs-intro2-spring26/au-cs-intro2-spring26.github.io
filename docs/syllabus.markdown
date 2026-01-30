@@ -38,7 +38,7 @@ permalink: /syllabus/
 - **Office Hours**: M/W 4-5PM by DMTI 108 Offices
 - **Section 2**: Adam Liewehr
 - **Email**: [al8425b@american.edu](al8425b@american.edu)
-- **Office Hours** M/W/F 5:30-6:30PM by DMTI 108 Offices 
+- **Office Hours** M/W/Th 5:30-6:30PM by DMTI 108 Offices 
 
 ## Coronavirus Policies
 
