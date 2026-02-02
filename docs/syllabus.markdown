@@ -29,7 +29,7 @@ permalink: /syllabus/
   -  T: 1-2 PM
   - F: 1-2 PM
 - **First Day of Class**: Tue., Jan. 13
-  - Section 002: Meets 9:45 AM - 11:00 AM T/F in DMTI 109
+  - Section 002: Meets 2:30 - 3:45 PM T/F in DMTI 109
  
 
 #### Teacher Assistants
